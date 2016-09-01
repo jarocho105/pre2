@@ -1,0 +1,15 @@
+call xcopy_desktop_all.bat cartera
+call xcopy_desktop_all.bat activosfijos
+call xcopy_desktop_all.bat cliente
+call xcopy_desktop_all.bat comisiones
+call xcopy_desktop_all.bat contabilidad
+call xcopy_desktop_all.bat facturacion
+call xcopy_desktop_all.bat importaciones
+call xcopy_desktop_all.bat inventario
+call xcopy_desktop_all.bat nomina
+call xcopy_desktop_all.bat seguridad
+call xcopy_desktop_all.bat sris
+call xcopy_desktop_all.bat tesoreria
+call xcopy_desktop_all.bat puntoventa
+call xcopy_desktop_all.bat produccion
+call xcopy_desktop_all.bat puntoventa

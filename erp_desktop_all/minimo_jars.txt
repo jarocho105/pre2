@@ -1,0 +1,16 @@
+JASPER REPORTS
+
+Quitar: ulJasperReports5.5
+
+Queda Simples:	jasperreports-5.5.0.jar
+				iText-2.1.7.js2.jar
+				poi-3.7-20101029.jar
+				jfreechart-1.0.12.jar
+				
+				
+JBOSS
+
+Quitar:ul_JBoss8.1
+Queda Simples:	jboss-ejb-client-1.0.21.Final-redhat-1.jar
+				log4j.jar
+				

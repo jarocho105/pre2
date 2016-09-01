@@ -1,0 +1,11 @@
+MemoriaSitioJFrame
+public void cargarMemoria() {
+		Runtime runtime = Runtime.getRuntime();
+		int megabytes = 1024 * 1024; 		
+		
+		this.textFieldMemoriaTotal.setText(Long.toString(runtime.totalMemory()/megabytes));
+		this.textFieldMemoriaLibre.setText(Long.toString(runtime.freeMemory()/megabytes));
+		
+		System.out.println("Memoria Cargada");
+		
+	}

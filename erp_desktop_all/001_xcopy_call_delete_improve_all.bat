@@ -1,0 +1,14 @@
+call 001_xcopy_delete_improve_all.bat cartera
+call 001_xcopy_delete_improve_all.bat activosfijos
+call 001_xcopy_delete_improve_all.bat cliente
+call 001_xcopy_delete_improve_all.bat comisiones
+call 001_xcopy_delete_improve_all.bat contabilidad
+call 001_xcopy_delete_improve_all.bat facturacion
+call 001_xcopy_delete_improve_all.bat inventario
+call 001_xcopy_delete_improve_all.bat nomina
+call 001_xcopy_delete_improve_all.bat seguridad
+call 001_xcopy_delete_improve_all.bat tesoreria
+call 001_xcopy_delete_improve_all.bat puntoventa
+call 001_xcopy_delete_improve_all.bat produccion
+call 001_xcopy_delete_improve_all.bat importaciones
+call 001_xcopy_delete_improve_all.bat sris

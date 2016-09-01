@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src_sris"/>
+	<classpathentry kind="src" path="src_seguridad"/>
+	<classpathentry kind="src" path="src_contabilidad"/>
+	<classpathentry kind="src" path="src_puntoventa"/>
+	<classpathentry kind="src" path="src_nomina"/>
+	<classpathentry kind="src" path="src_facturacion"/>
+	<classpathentry kind="src" path="src_cartera"/>
+	<classpathentry kind="src" path="src_activosfijos"/>
+	<classpathentry kind="src" path="src_inventario"/>
+	<classpathentry kind="src" path="src_comisiones"/>
+	<classpathentry kind="src" path="src_tesoreria"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="src" path="src_produccion"/>
+	<classpathentry kind="src" path="src_importaciones"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/erp_ejb"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/mail/jboss/mail.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/mysql/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/mysql/postgresql-8.4-701.jdbc4.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/apache/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/bydan/jh/jh.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/jdbc/informix/ifxjdbc.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/jdbc/informix/ifxjdbcx.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/jdbc/informix/ifxlang.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/jdbc/informix/ifxlsupp.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/jdbc/informix/ifxsqlj.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/jdbc/informix/ifxtools.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/swing/beansbinding/betterbeansbinding-1.3.0-all.jar" sourcepath="/erp_ejb_resources/lib/swing/beansbinding/betterbeansbinding-core-1.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/swing/open_swing/jcalendar.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ulJasperReports5.5"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/seguridad_updates"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ulJBoss5.1_persistence"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ulJBoss51_to81"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/jboss-client/jboss-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="/erp_ejb_resources/lib/jboss-client/jboss-logging-spi.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-oracle"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

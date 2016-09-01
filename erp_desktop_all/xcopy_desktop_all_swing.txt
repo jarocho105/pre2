@@ -1,0 +1,1 @@
+xcopy "%cd%\src_%1\com\bydan\erp\%1\presentation\swing" "\\bydan-pc\proyectos\2013\source\erp\erp_desktop_all\src_%1\com\bydan\erp\%1\presentation\swing" /e /i /y

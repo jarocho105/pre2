@@ -1,0 +1,15 @@
+call xcopy_web_all.bat cartera
+call xcopy_web_all.bat activosfijos
+call xcopy_web_all.bat cliente
+call xcopy_web_all.bat comisiones
+call xcopy_web_all.bat contabilidad
+call xcopy_web_all.bat facturacion
+call xcopy_web_all.bat importaciones
+call xcopy_web_all.bat inventario
+call xcopy_web_all.bat nomina
+call xcopy_web_all.bat seguridad
+call xcopy_web_all.bat sris
+call xcopy_web_all.bat tesoreria
+call xcopy_web_all.bat puntoventa
+call xcopy_web_all.bat produccion
+call xcopy_web_all.bat puntoventa
